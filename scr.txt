@@ -1,6 +1,6 @@
 _G.Enabled = true
 --local data = readfile("nframes/owl.txt")
-local data = game:HttpGet(https://github.com/Jessdevzz/roblox-rate-my-avatar-bad-apple/blob/main/frames2") -- prerendered amongus video
+local data = game:HttpGet("https://raw.githubusercontent.com/Jessdevzz/roblox-rate-my-avatar-bad-apple/main/frames2") -- prerendered amongus video
 
 function update(text)
     local args = {
