@@ -7,7 +7,7 @@ function update(text)
         [1] = "Update",
         [2] = {
             ["DescriptionText"] = text,
-            ["ImageId"] = 0
+            ["ImageId"] = 11647629882
         }
     }
     
