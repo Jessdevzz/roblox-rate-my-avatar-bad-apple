@@ -94,6 +94,6 @@ for fhnrteyrtnhi,line in pairs(splitteddata) do
            currentd = currentd + 1
        end
        coroutine.wrap(update)(finalstring)
-       task.wait(.06)
+       task.wait(.13)
    end
 end
